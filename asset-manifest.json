@@ -1,27 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.5ef47185.chunk.css",
-    "main.js": "/static/js/main.6844ea54.chunk.js",
-    "main.js.map": "/static/js/main.6844ea54.chunk.js.map",
+    "main.js": "/static/js/main.079de380.chunk.js",
+    "main.js.map": "/static/js/main.079de380.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9e4a821.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9e4a821.js.map",
-    "static/js/2.fd23f7e7.chunk.js": "/static/js/2.fd23f7e7.chunk.js",
-    "static/js/2.fd23f7e7.chunk.js.map": "/static/js/2.fd23f7e7.chunk.js.map",
+    "static/js/2.a9a434e0.chunk.js": "/static/js/2.a9a434e0.chunk.js",
+    "static/js/2.a9a434e0.chunk.js.map": "/static/js/2.a9a434e0.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.5ef47185.chunk.css.map": "/static/css/main.5ef47185.chunk.css.map",
-    "static/js/2.fd23f7e7.chunk.js.LICENSE.txt": "/static/js/2.fd23f7e7.chunk.js.LICENSE.txt",
-    "static/media/mewHome.cf321073.png": "/static/media/mewHome.cf321073.png",
-    "static/media/patoError.a73c39bf.png": "/static/media/patoError.a73c39bf.png",
-    "static/media/pikachu.7ac4a78f.png": "/static/media/pikachu.7ac4a78f.png",
-    "static/media/pokemon-city-dark.7bdeac2a.png": "/static/media/pokemon-city-dark.7bdeac2a.png",
-    "static/media/pokemon-city.c06224c6.png": "/static/media/pokemon-city.c06224c6.png",
-    "static/media/tituloPokemon.fdb96d62.png": "/static/media/tituloPokemon.fdb96d62.png",
-    "static/media/upss.3610b728.jpg": "/static/media/upss.3610b728.jpg"
+    "static/js/2.a9a434e0.chunk.js.LICENSE.txt": "/static/js/2.a9a434e0.chunk.js.LICENSE.txt",
+    "static/media/close-icon.a1c7daa9.webp": "/static/media/close-icon.a1c7daa9.webp",
+    "static/media/mewHome.145df333.webp": "/static/media/mewHome.145df333.webp",
+    "static/media/patoError.42d40d15.webp": "/static/media/patoError.42d40d15.webp",
+    "static/media/pikachu.92a17b3e.webp": "/static/media/pikachu.92a17b3e.webp",
+    "static/media/pokebola-145x146.9829ca96.webp": "/static/media/pokebola-145x146.9829ca96.webp",
+    "static/media/pokebola.43bae08d.webp": "/static/media/pokebola.43bae08d.webp",
+    "static/media/pokemon-city-dark.93b29c8b.webp": "/static/media/pokemon-city-dark.93b29c8b.webp",
+    "static/media/pokemon-city.a30a89ac.webp": "/static/media/pokemon-city.a30a89ac.webp",
+    "static/media/searh-icon.b7544a58.webp": "/static/media/searh-icon.b7544a58.webp",
+    "static/media/tituloPokemon.3885e3f8.webp": "/static/media/tituloPokemon.3885e3f8.webp",
+    "static/media/upss.598b3d1a.webp": "/static/media/upss.598b3d1a.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.b9e4a821.js",
-    "static/js/2.fd23f7e7.chunk.js",
+    "static/js/2.a9a434e0.chunk.js",
     "static/css/main.5ef47185.chunk.css",
-    "static/js/main.6844ea54.chunk.js"
+    "static/js/main.079de380.chunk.js"
   ]
 }
